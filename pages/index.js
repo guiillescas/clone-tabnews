@@ -1,3 +1,7 @@
 export default function Home() {
-    return <h4>Hello world!</h4>
+  function a() {
+    const b = "b";
+  }
+
+  return <h4>Hello world!</h4>;
 }
